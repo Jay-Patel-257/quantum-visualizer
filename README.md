@@ -13,6 +13,7 @@ pip install matplotlib
 ```
 ## **How to run?**
 All you need to is, clone the repo, install above dependencies and run the [visualizer.py](/visualizer.py)!!
+> **Note:** Make sure you are working in the environment with python3.6 or above!!
 ## **Technologies:**
 * Qiskit
 * Tkinter
