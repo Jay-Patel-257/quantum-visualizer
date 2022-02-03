@@ -12,7 +12,7 @@ pip install qiskit[visualization]
 pip install matplotlib
 ```
 ## **How to run?**
-All you need to is, install above dependencies and run the visualizer.py!!
+All you need to is, install above dependencies and run the visualizer.py(/visualizer.py)!!
 ## **Technologies:**
 * Qiskit
 * Tkinter
