@@ -1,6 +1,6 @@
 # **Quantum Visualizer**
 ## **About:**
-This application is meant for the visualization of the various Quantum gates on a qubit. It provides a Simulation of the Qubit transform on the Bloch Sphere via animation. The goal of this project is to add new functionalities to this application :)
+This application is meant for the visualization of the various Quantum gates on a qubit. It provides a Simulation of the Qubit transform on the Bloch Sphere via animation. The goal of this project is to add new functionalities to this application.
 ## **Installations:**
 ```
 pip install qiskit
